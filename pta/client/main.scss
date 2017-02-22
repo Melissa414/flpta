@@ -1,0 +1,5 @@
+@import "{poetic:materialize-scss}/sass/components/_color.scss";
+
+$primary-color: color("light-blue", "darken-4");
+@import "./stylesheets/_navbar.scss";
+@import "./stylesheets/_stickyfooter.scss";
